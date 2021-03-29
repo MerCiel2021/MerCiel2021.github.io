@@ -1,5 +1,6 @@
-{::options parse_block_html="true" /}
-<img src ="20190706.jpg" alt="my image01" width="300" style="float=:right">
+
+<img src ="20190706.jpg" alt="my image01" width="300">
+
 # About
 プログラミング初学者のMer-Cです。  
 2021年1月にN高等学校に入学、１年分のレポートを２ヶ月で終わらせ、同年３月からプログラミングの学習をスタート。  
