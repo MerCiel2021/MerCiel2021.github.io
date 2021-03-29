@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# About
+プログラミング初学者のMer-Cです。  
+2021年1月にN高等学校に入学、１年分のレポートを２ヶ月で終わらせ、同年３月からプログラミングの学習をスタート。  
+さらに同年４月からは卒業生から「アプリをつくろう同好会」の会長を引き継ぐことになり、  
+より一層プログラミングへの思いが強くなり、日々奮闘中です！
 
-You can use the [editor on GitHub](https://github.com/MerCiel2021/MerCiel2021.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MerCiel2021/MerCiel2021.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Profile
+- Mer-C(めるしぃ）  
+- 大阪府  
+- プログラミングは完全な初心者
+- フランスへ語学留学するのが夢
