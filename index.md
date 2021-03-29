@@ -28,4 +28,4 @@
 ## History
 - 2021.01 N高等学校入学
 
-<iframe src="https://openprocessing.org/sketch/1150968/embed/" width="600" height="200"></iframe>
+<iframe src="https://openprocessing.org/sketch/1150968/embed/" width="８００" height="５００"></iframe>
