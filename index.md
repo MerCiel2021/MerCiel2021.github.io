@@ -9,3 +9,19 @@
 - 大阪府  
 - プログラミングは完全な初心者
 - フランスへ語学留学するのが夢
+
+## Skills
+- OS（Windows, Mac, Ubuntuなど）
+- Languages（JavaScriptなど）
+- Engine,Frameworks (Node.js, Expressなど)
+- Tool,MiddleWare（Git, PostgreSQLなど）
+- その他資格など（英検準２級、仏検３級）
+
+## Works
+- 準備中
+
+## Contacts
+- [mail] mai_20n4100004@nnn.ed.jp
+
+## History
+- 2021.01 N高等学校入学
