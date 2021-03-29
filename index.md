@@ -1,7 +1,12 @@
-# About
+{::options parse_block_html="true" /}
+<div>
+<img src ="20190706.jpg" alt="my image01" width="300" /></div>
+<div style="width: 500px; float:left">    
+<h1>About</h1>
 プログラミング初学者のMer-Cです。  
 2021年1月にN高等学校に入学、１年分のレポートを２ヶ月で終わらせ、同年３月からプログラミングの学習をスタート。  
 さらに同年４月からは卒業生から「アプリをつくろう同好会」の会長を引き継ぐことになり、より一層プログラミングへの思いが強くなり、日々奮闘中です！
+</div>
 
 ## Profile
 - Mer-C(めるしぃ）  
